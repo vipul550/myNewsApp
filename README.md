@@ -3,6 +3,9 @@ React-Native app for news. Developed using NewsApi.org
 
 Android application using React-Native and Expo. 
 
+Work Pending : Scroll View and Link Implementation
+
+
 
 ![Screenshot1](https://user-images.githubusercontent.com/7260377/81496680-ee7c4680-92d6-11ea-87de-7376e320de4a.png)
 
